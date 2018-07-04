@@ -1,2 +1,2 @@
 # androidTest
-TEST 공유
+TEST 공유 어허
